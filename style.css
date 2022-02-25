@@ -1,0 +1,27 @@
+#header {
+    color: goldenrod;
+    background-color: black;
+    text-align: center;
+}
+#container {
+    background-color: rgb(236, 198, 26);
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.image {
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+.list {
+    background-color: rgb(227, 240, 108);
+    margin-left: 120px;
+    margin-right: 120px;
+    text-align: center;
+}
+#footer {
+    color: #f5eded;
+    background-color: rgb(8, 50, 141);
+    text-align: center;
+}
