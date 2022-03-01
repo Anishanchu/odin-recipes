@@ -1,7 +1,21 @@
 #container {
-    background-color: rgb(165, 235, 235);
+    background-color: whitesmoke;
+    width: auto;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 #header {
     background-color: rgb(15, 68, 184);
-    color: rgb(3, 3, 3);
+    color: rgb(253, 253, 253);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Times New Roman', Times, serif;
+}
+.image {
+    text-align: center;
+}
+.paragraph {
+    font-family: 'Source Serif Pro', serif;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
 }

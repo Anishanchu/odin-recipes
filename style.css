@@ -4,7 +4,7 @@
     text-align: center;
 }
 #container {
-    background-color: rgb(236, 198, 26);
+    background-color: whitesmoke;
     width: auto;
     margin-left: auto;
     margin-right: auto;
@@ -14,11 +14,34 @@
     height: auto;
     text-align: center;
 }
-.list {
-    background-color: rgb(227, 240, 108);
-    margin-left: 120px;
-    margin-right: 120px;
+.list1 {
+    background-color: rgb(132, 180, 174);
+    color: white;
     text-align: center;
+    margin-left : 350px;
+    margin-right: 350px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 1%;
+}
+.list2 {
+    background-color: rgb(132, 180, 174);
+    color: white;
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding: 1%;
+}
+.list3 {
+    background-color: rgb(132, 180, 174);
+    color: white;   
+    text-align: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    margin-top: 5px;
+    padding: 1%;
 }
 #footer {
     color: #f5eded;
